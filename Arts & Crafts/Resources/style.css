@@ -1,0 +1,40 @@
+h1{
+font: helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+align: center;
+background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg)
+
+}
+#brushes h2{
+font: helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: mediumspringgreen;
+
+}
+
+h3{
+font-weight: bold;
+
+}
+#frames h2{
+  font: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+
+}
+
+#paint h2{
+  font: helvetica;
+  font-size: 32px;
+  font-weight:bold;
+  color: white;
+  background-color: skyblue;
+
+  
+}
